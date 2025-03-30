@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RCC>
+    <qresource prefix="/sprites">
+        <file>Sprite/Top view/robot_3Dblue.png</file>
+        <file>Sprite/Top view/robot_3Dgreen.png</file>
+        <file>Sprite/Top view/robot_3Dred.png</file>
+        <file>Sprite/Top view/robot_3Dyellow.png</file>
+        <file>Sprite/Side view/robot_blueBody.png</file>
+        <file>Sprite/Side view/robot_greenBody.png</file>
+        <file>Sprite/Side view/robot_redBody.png</file>
+        <file>Sprite/Side view/robot_yellowBody.png</file>
+        <file>Sprite/Side view/robot_blueDrive1.png</file>
+        <file>Sprite/Side view/robot_blueDrive2.png</file>
+        <file>Sprite/Side view/robot_greenDrive1.png</file>
+        <file>Sprite/Side view/robot_greenDrive2.png</file>
+        <file>Sprite/Side view/robot_redDrive1.png</file>
+        <file>Sprite/Side view/robot_redDrive2.png</file>
+        <file>Sprite/Side view/robot_yellowDrive1.png</file>
+        <file>Sprite/Side view/robot_yellowDrive2.png</file>
+        <file>Sprite/Icons/rock.jpg</file>
+        <file>Sprite/Icons/Heal.png</file>
+        <file>Sprite/Icons/laser.png</file>
+        <file>Sprite/Icons/missile.png</file>
+        <file>Sprite/Icons/bomb.png</file>
+    </qresource>
+</RCC>
